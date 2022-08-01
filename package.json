@@ -1,0 +1,22 @@
+{
+  "name": "demorepo",
+  "version": "1.0.0",
+  "description": "demorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravmahajan199/Demorepo.git"
+  },
+  "author": "gaurav m.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravmahajan199/Demorepo/issues"
+  },
+  "homepage": "https://github.com/gauravmahajan199/Demorepo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
